@@ -1,8 +1,8 @@
+#!/bin/bash
 ##################################################################
 # This script installs nessesary software on linux distro.       #
 # Package manager doesn't matter. Sudo accses required.          #
 ##################################################################
-
 cd ~
 distro="null"
 installtype="null"
