@@ -1,6 +1,6 @@
 # Linux-software-collection
 A small collection of Linux software that is installed via a script.
-To use clone this repo, enter the directory and print in command prompt:
+To use dowload this repo, enter the directory and print in command prompt:
 ```bash
 $ chmod +x ./Software_install.sh
 $ ./Software_install.sh
