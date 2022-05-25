@@ -36,4 +36,3 @@ and uncomment following two lines
 ```
 after that save file and exit.
 
-T
