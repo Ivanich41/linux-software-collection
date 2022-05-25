@@ -1,5 +1,10 @@
 # Linux-software-collection
-A small collection of Linux software that is installed via a script
+A small collection of Linux software that is installed via a script.
+To use clone this repo and print in command prompt:
+```bash
+$ chmod +x ./Software_install.sh
+$ ./Software_install.sh
+```
 Includes two installation options. Minimal and complete.
 
 **Minimal includes**:
@@ -22,7 +27,7 @@ Includes two installation options. Minimal and complete.
 
 After complete instalation you must configure libvrt manually
 ```bash 
-sudo nano /etc/libvirt/libvirtd.conf
+$ sudo nano /etc/libvirt/libvirtd.conf
 ```
 and uncomment following two lines 
 ```
@@ -30,3 +35,5 @@ and uncomment following two lines
 #unix_sock_ro_perms = “0777"
 ```
 after that save file and exit.
+
+T
