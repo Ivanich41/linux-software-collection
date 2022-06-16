@@ -3,7 +3,7 @@
 # This script installs nessesary software on linux distro.       #
 # Package manager doesn't matter. Sudo accses required.          #
 ##################################################################
-cd ~
+cd ~ #uselles test commitv 
 distro="null"
 installtype="null"
 # Install type 
