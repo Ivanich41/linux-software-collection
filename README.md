@@ -32,6 +32,7 @@ $ sudo nano /etc/libvirt/libvirtd.conf
 and uncomment following two lines 
 ```
 #unix_sock_group = “libvirt”
+...
 #unix_sock_ro_perms = “0777"
 ```
 after that save file and exit.
